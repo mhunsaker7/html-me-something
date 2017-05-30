@@ -1,0 +1,44 @@
+header {
+     background: url("https://cdn.elegantthemes.com/blog/wp-content/uploads/2016/02/4ALUVYYlQLC004zkGhd9_Sunset-at-Windermere.jpg"); 
+     background-position: top center;
+     background-repeat: no-repeat; 
+     background-position: left top;
+     background-size: cover; 
+     height: 600px; 
+     }
+
+div h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    letter-spacing: 3px; 
+    line-height: 700px;
+}
+
+.firstright {
+    width: 850px;
+    float: right;
+    color: darkolivegreen; 
+    font-family: Lucida Sans Unicode;
+    padding: 6px;
+
+}
+
+h2 {
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
+    color:darkolivegreen;
+    text-align: center;
+}
+figcaption {
+    font-size: 12px;
+    font-family: Courier;
+}
+.secondright {
+    float: right;
+    width: 850px; 
+}
+
+
+
+
