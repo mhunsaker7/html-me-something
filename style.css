@@ -4,7 +4,7 @@ header {
      background-repeat: no-repeat; 
      background-position: left top;
      background-size: cover; 
-     height: 600px; 
+     height: 700px; 
      }
 
 div h1 {
@@ -17,27 +17,75 @@ div h1 {
 
 .firstright {
     width: 850px;
-    float: right;
+    margin: 0 auto;
     color: darkolivegreen; 
     font-family: Lucida Sans Unicode;
     padding: 6px;
+    font-size: 13px;
+    text-align: center;
 
 }
+.bodyparagraphs {
+    width: 850px;
+    margin: 0 auto;
+    color: darkolivegreen; 
+    font-family: Lucida Sans Unicode;
+    padding: 6px;
+    font-size: 13px;
+    text-align: center;
+    
+}
 
+ul {
+    width: 850px;
+    margin: 0 auto;
+    color: darkolivegreen; 
+    font-family: Lucida Sans Unicode;
+    padding: 6px;
+    font-size: 13px;
+}
 h2 {
-    font-family: 'Trebuchet MS';
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
     font-size: 30px;
     color:darkolivegreen;
     text-align: center;
+
 }
 figcaption {
-    font-size: 12px;
+    font-size: 11px;
     font-family: Courier;
 }
-.secondright {
-    float: right;
-    width: 850px; 
+.inline {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;  
+    text-align: center;
+   }
+.inlinefour {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 40px;
+    text-align: center;
 }
+.inlinebottom {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 40px;
+    text-align: center;
+}
+#images {
+    text-align: center;
+}
+body {
+    background-color: beige
+}
+footer {
+    text-align: center;
+}
+
 
 
 
